@@ -72,11 +72,7 @@ Com um erro Quadratico de : 0.0504, talvez seja uma boa representacao...
 
 Segue o grafico gerado.
 
-
-
 ![Alt text](https://github.com/blinhares/ML_RegreArvoreDecisao_Acoes/blob/main/resultado_grafico.png "Imagem")
-
-<img src="https://github.com/blinhares/ML_RegreArvoreDecisao_Acoes/blob/main/resultado_grafico.png" alt="Resultado para GRND3.SA">
 
 Bem legal né!
 
