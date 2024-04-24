@@ -183,8 +183,8 @@ def main():
         if importancia > 0.2:
             papeis_preditores_considereveis.append(nome)
     con.clear()  
-    print(Panel(texto, title=f' Resumo {papel_alvo}'))      
-    print(Panel(str(papeis_preditores_considereveis), 
+    print(Panel.fit(texto, title=f' Resumo {papel_alvo}'))      
+    print(Panel.fit(str(papeis_preditores_considereveis), 
                 title='Papeis Consideraveis',
                 # subtitle=f'Total: {len(papeis_preditores_considereveis)} - {len(papeis_preditores_considereveis)/(i+conjunto)}'
                 ))
