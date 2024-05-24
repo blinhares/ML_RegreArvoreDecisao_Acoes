@@ -1,4 +1,4 @@
-# ML. Arvore de Decisao Usando Para Contatar / ou Não a correlacao entre preços usando `scikit-learn`.
+# ML. Arvore de Decisão Usando Para Constatar (ou Não) a correlação entre Ações usando `scikit-learn`.
 
 Mais Buscado que a Pedra Filosofal, prever o preco de acoes do mecado financeiro é o desejo de todo esntusiasta da inteligencia artificial. Sabemos que prever esse tipo de coisa é praticamente impossivel mais certamente as ferramentas que temos nos dão um grande auxilio na hora de analizar informações.
 
